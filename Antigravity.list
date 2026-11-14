@@ -1,0 +1,25 @@
+# --- Antigravity 客户端进程直通 ---
+PROCESS-NAME,Antigravity.exe
+PROCESS-NAME,language_server.exe
+PROCESS-NAME,language_server_windows_x64.exe
+
+# --- Antigravity 核心流式通道与模型推理端点 ---
+DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,aicode.googleapis.com
+DOMAIN-SUFFIX,jetski-webchannel.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN-SUFFIX,antigravity-pa.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuiteapplets.pa.googleapis.com
+
+# --- Antigravity 官方服务与控制台 ---
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-KEYWORD,antigravity
+
+# --- Antigravity 身份认证与 Token 协同---
+DOMAIN,oauth2.googleapis.com
+DOMAIN,accounts.google.com
